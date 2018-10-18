@@ -22,5 +22,5 @@ You will need `node` and `npm` installed globally on your machine.
 *Serve with hot reload at localhost:4200*  
   ```cd client```  
   ```cd AngularProject``  
-  ```npm install```   
+  ```npm install```
   ```ng serve```
