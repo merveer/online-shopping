@@ -16,8 +16,8 @@ You will need `node` and `npm` installed globally on your machine.
 
 *To Start Server:*  
 ```cd server```
-```npm install``
-```nodemon server``
+```npm install```
+```nodemon server```
 
 *Serve with hot reload at localhost:4200*  
   ```cd client```  
