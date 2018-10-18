@@ -15,12 +15,12 @@ You will need `node` and `npm` installed globally on your machine.
 ```npm install```
 
 *To Start Server:*  
-```cd server```
-```npm install```
-```nodemon server```
+```cd server```  
+```npm install```  
+```nodemon server```  
 
 *Serve with hot reload at localhost:4200*  
   ```cd client```  
-  ```cd AngularProject```
-  ```npm install```
-  ```ng serve```
+  ```cd AngularProject```  
+  ```npm install```  
+  ```ng serve```  
