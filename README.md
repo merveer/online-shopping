@@ -24,3 +24,5 @@ You will need `node` and `npm` installed globally on your machine.
   ```cd AngularProject```  
   ```npm install```  
   ```ng serve```  
+
+* This project is the part of [online tutorial](https://www.udemy.com/build-amazon-clone-angular5-node/)
